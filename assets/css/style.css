@@ -1,0 +1,66 @@
+/*RESET*/
+* {
+    text-decoration: none;
+    color: inherit;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    width: 100%;
+    height: 100vh;
+    background-image: url("../images/joe-cook-GeGqpdduiaQ-unsplash.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo {
+    padding-left: 5%;
+}
+
+.liens_navigation {
+    color: #59B9C7;
+    text-decoration: none;
+}
+
+.liens_navigation:hover {
+    color: #FFB527;
+    text-decoration: underline;
+    text-decoration-color: #FFB527;
+    text-underline-offset: 8px;
+}
+
+.btn {
+    background-color: #FFB527;
+}
+
+.btn:hover {
+    background-color: #59B9C7;
+}
+
+.text_intro {
+    margin-top: 17%;
+    margin-left: 5%;
+    /*color: #59B9C7;*/
+}
+
+.search_form_1 {
+    margin-top: 30%;
+}
+
+.button_criteria {
+    background-color: #FFFFFF;
+}
+
+.search_form_2 {
+    margin-top: 35%;
+}
+
+h2 {
+    color: #59B9C7;
+    text-decoration: underline;
+}
+
+
